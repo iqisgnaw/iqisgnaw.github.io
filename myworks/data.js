@@ -1,0 +1,1 @@
+var myData={designer:{name:'',phone:'',tag:[""],bg:'#1e2025'},gallery:[{src:"myworks/图标.jpg",w:1280,h:720},{src:"myworks/H5_05_王思奇.jpg",w:750,h:5500},]}
